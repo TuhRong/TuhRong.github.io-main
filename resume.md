@@ -1,10 +1,11 @@
 # Your Name
+Truong Le
 
 truongle@uw.edu
 
 http://www.example.com
 
-http://www.linkedin.com/in/yourname
+https://www.linkedin.com/in/truong-le-769185200/
 
 # Summary
 

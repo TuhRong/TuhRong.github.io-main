@@ -1,6 +1,6 @@
 # Your Name
 
-your.name@example.com
+truongle@uw.edu
 
 http://www.example.com
 
